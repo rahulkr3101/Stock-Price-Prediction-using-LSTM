@@ -13,7 +13,7 @@ The model was built using Tensorflow Sequential API :
 2) Since our task was stock price prediction, mean squared error loss was used with ‘adam’ optimizer for gradient descent.
 3) LearningRateScheduler was used as a callback. With the help of callback, we can customize our model; I was able to decrease the learning rate by 2% after every two epochs using LearningRateScheduler.
 
-Google Colab Project : https://colab.research.google.com/drive/1OfA9R0ePR88ibLOIBDGmj3mDABfdanNh?usp=sharing
-Medium Publication : https://rishittoteja.medium.com/nasdaq-stock-price-forecasting-with-lstm-ec7d2716caa5
+Google Colab Project : https://colab.research.google.com/drive/1AaTQIojc64BVM9loPs-cvzmf_aV5IUPr
+
 
 ![alt text](https://miro.medium.com/max/1400/1*xR4m0oOKz_jRgQU4Oge53g.jpeg)
